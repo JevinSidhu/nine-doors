@@ -3,5 +3,5 @@ document.getElementById("door9").onmousedown = function()
     alert("Play again?");
     setTimeout(function(){
    window.location.reload(1);
-}, 2000);
+}, 500);
 };
